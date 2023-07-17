@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logica.Date">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEBAEAAAMAAAAAAACEMAAAAAAAAAA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.SalaryEmployes">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAQAAAA=</HashCode>
+      <FileName>SalaryEmployes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.HourEmployes">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAGAAQCAAAAAAABAAAIAAAAAAAABAA=</HashCode>
+      <FileName>HourEmployes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.ComissionEmploye">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAIAEAAAABAAAAQAAAAAIAAgAAAAAAAA=</HashCode>
+      <FileName>ComissionEmploye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.BaseCommisionEmploye">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAQAAAA=</HashCode>
+      <FileName>BaseCommisionEmploye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.Employes">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAEEAAAAAAAACAAAAAIAQAAAAAAAAg=</HashCode>
+      <FileName>Employes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
